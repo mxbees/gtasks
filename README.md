@@ -66,7 +66,7 @@ Available Commands:
   help        Help about any command
   login       Logging into Google Tasks
   tasklists   View and create tasklists for currently signed-in account
-  tasks       View, create, list and delete tasks in a tasklist
+  tasks       View, add, list and delete tasks in a tasklist
 
 Flags:
   -h, --help     help for gtasks

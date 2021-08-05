@@ -23,7 +23,7 @@ import (
 // tasksCmd represents the tasks command
 var tasksCmd = &cobra.Command{
 	Use:   "tasks",
-	Short: "View, create, and delete tasks in a tasklist",
+	Short: "View, add, and delete tasks in a tasklist",
 	Long: `
 	View, create, list and delete tasks in a tasklist
 	for the currently signed in account.
